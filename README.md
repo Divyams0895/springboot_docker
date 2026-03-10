@@ -13,7 +13,8 @@ What is Docker?
 -----------------
 
 * It is an open-source platform that allows you to automate the deployment, scaling, and management of applications using containerization
-* Create containers using Docker, which is portable, which means that the containers can be moved across systems and can be deployed.
+* Create containers using Docker, which is portable, meaning that the containers can be moved across systems and can be deployed.
+  
 ![Project Screenshot](docker.png)
 
 Virtual Machines
@@ -26,14 +27,23 @@ Virtual Machines
 
 Docker over VMs
 ----------------
+
+![Project Screenshot](docker-container.png)
+
 * Docker Engine - manage the containers
 * Lightweight
 * There is no guest OS
-image
+
+![Project Screenshot](diff.png)
+
+![Project Screenshot](diff1.png)
+![Project Screenshot](diff2.png)
 
 Docker Architecture
 ===================
-image
+
+![Project Screenshot](docker-engine.png)
+
 Components
 -------------
 * Host OS-installed in our system windows, Linux, or Mac
