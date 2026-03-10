@@ -14,7 +14,7 @@ What is Docker?
 
 * It is an open-source platform that allows you to automate the deployment, scaling, and management of applications using containerization
 * Create containers using Docker, which is portable, which means that the containers can be moved across systems and can be deployed.
-image
+![Project Screenshot](docker.png)
 
 Virtual Machines
 ----------------
